@@ -1,0 +1,7 @@
+venv/
+.env
+posts.db
+uploads/
+.ipynb_checkpoints/
+__pycache__/
+*.ipynb
